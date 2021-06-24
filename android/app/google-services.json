@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635746904843",
+    "project_id": "health-diary-ba2df",
+    "storage_bucket": "health-diary-ba2df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635746904843:android:cff7db1c2204e9b291500e",
+        "android_client_info": {
+          "package_name": "com.example.health_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635746904843-bbd0q8mv1a478qhjn9b38b066ogboesl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACvkjuMSoVv5b0ymS6nircwiZyKUYVmGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635746904843-bbd0q8mv1a478qhjn9b38b066ogboesl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
